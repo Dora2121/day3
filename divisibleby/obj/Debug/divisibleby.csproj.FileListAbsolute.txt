@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\bin\Debug\divisibleby.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\bin\Debug\divisibleby.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\bin\Debug\divisibleby.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\obj\Debug\divisibleby.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\obj\Debug\divisibleby.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\obj\Debug\divisibleby.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\obj\Debug\divisibleby.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\divisibleby\obj\Debug\divisibleby.pdb

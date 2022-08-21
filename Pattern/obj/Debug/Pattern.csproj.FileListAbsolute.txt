@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\bin\Debug\Pattern.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\bin\Debug\Pattern.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\obj\Debug\Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\obj\Debug\Pattern.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\Pattern\obj\Debug\Pattern.pdb

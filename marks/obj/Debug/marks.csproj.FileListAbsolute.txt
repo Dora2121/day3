@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\bin\Debug\marks.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\bin\Debug\marks.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\bin\Debug\marks.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\obj\Debug\marks.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\obj\Debug\marks.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\obj\Debug\marks.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\obj\Debug\marks.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\marks\obj\Debug\marks.pdb

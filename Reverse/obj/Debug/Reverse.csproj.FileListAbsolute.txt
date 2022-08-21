@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\bin\Debug\Reverse.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\bin\Debug\Reverse.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\obj\Debug\Reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\obj\Debug\Reverse.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\Reverse\obj\Debug\Reverse.pdb

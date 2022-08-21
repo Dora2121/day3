@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\bin\Debug\Biggestno.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\bin\Debug\Biggestno.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\bin\Debug\Biggestno.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\obj\Debug\Biggestno.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\obj\Debug\Biggestno.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\obj\Debug\Biggestno.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\obj\Debug\Biggestno.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\Biggestno\obj\Debug\Biggestno.pdb

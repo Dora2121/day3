@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\bin\Debug\stringcomp.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\bin\Debug\stringcomp.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\bin\Debug\stringcomp.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\obj\Debug\stringcomp.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\obj\Debug\stringcomp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\obj\Debug\stringcomp.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\obj\Debug\stringcomp.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\stringcomp\obj\Debug\stringcomp.pdb

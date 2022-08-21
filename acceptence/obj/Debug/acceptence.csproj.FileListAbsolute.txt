@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\bin\Debug\acceptence.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\bin\Debug\acceptence.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\bin\Debug\acceptence.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\obj\Debug\acceptence.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\obj\Debug\acceptence.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\obj\Debug\acceptence.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\obj\Debug\acceptence.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\acceptence\obj\Debug\acceptence.pdb

@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\bin\Debug\sumofodd.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\bin\Debug\sumofodd.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\bin\Debug\sumofodd.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\obj\Debug\sumofodd.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\obj\Debug\sumofodd.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\obj\Debug\sumofodd.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\obj\Debug\sumofodd.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\sumofodd\obj\Debug\sumofodd.pdb

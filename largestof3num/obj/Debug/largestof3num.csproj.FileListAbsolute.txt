@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\obj\Debug\largestof3num.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\obj\Debug\largestof3num.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\obj\Debug\largestof3num.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\bin\Debug\largestof3num.exe.config
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\bin\Debug\largestof3num.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\bin\Debug\largestof3num.pdb
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\obj\Debug\largestof3num.exe
+C:\Users\DORA BABU\Desktop\work space\day4assign\largestof3num\obj\Debug\largestof3num.pdb
